@@ -29,9 +29,9 @@ const AppNavigator = () => {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen 
-          name="MainTabs" 
-          component={TabNavigator} 
+        <Stack.Screen
+          name="MainTabs"
+          component={TabNavigator}
           options={{ headerShown: false }}
         />
       </Stack.Navigator>
