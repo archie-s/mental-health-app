@@ -1,3 +1,10 @@
+ZenziCare is a digital mental wellness companion designed to support the emotional well-being of older adults in Africa. Rooted in Ubuntu and holistic care, the app provides guided relaxation, therapy resources, mindfulness exercises, and a safe space for seniors to share and receive support.
+
+🌍 Why ZenziCare?
+Mental health is often overlooked among older generations, yet their well-being directly impacts younger generations. Many African families pass down generational trauma due to unresolved emotional struggles, cultural taboos around mental health, and limited access to psychological support.
+
+By healing and supporting older adults, we foster healthier relationships within families, breaking cycles of unaddressed trauma. In turn, younger generations grow up in more emotionally balanced environments, reducing depression and mental health struggles in the future. This app is a step toward community healing—one generation at a time.
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
